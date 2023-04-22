@@ -14,7 +14,9 @@ Lai Boon Yi
 
 # Problem Statement
 
-Singapore is a bustling city-state with a high demand for housing. However, not everyone can afford to purchase a brand new property in this expensive city. That's where resale flats come in. Resale flats offer an alternative option for individuals looking to own a home in Singapore. ***But when is the best time to buy a resale flat in Singapore?***
+Singapore is a bustling city-state with a high demand for housing. However, not everyone can afford to purchase a brand new property in this expensive city. That's where resale flats come in. Resale flats offer an alternative option for individuals looking to own a home in Singapore. 
+
+***But when is the best time to buy a resale flat in Singapore?***
 
 # Data
 
@@ -31,6 +33,10 @@ As there is alot of data we only chose to focus on the top 3 towns with the most
 1. [Linear regression](https://github.com/Tzsds/SC1015/blob/main/ML(Linear%20Regression).ipynb)
 
 2. [Neural Network](https://github.com/Tzsds/SC1015/blob/main/ML(Neural%20Network).ipynb)
+
+# Conclusion
+
+
 
 # References
 
