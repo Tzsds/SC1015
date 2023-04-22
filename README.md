@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 Source Codes for
 
-1. [EDA](https://github.com/Tzsds/SC1015/blob/main/ML(Linear%20Regression).ipynb)
+1. [EDA](https://github.com/Tzsds/SC1015/blob/main/EDA.ipynb)
 
 2. [Linear regression](https://github.com/Tzsds/SC1015/blob/main/ML(Linear%20Regression).ipynb)
 
