@@ -28,9 +28,9 @@ As there is alot of data we only chose to focus on the top 3 towns with the most
 
 # Machine Learning Models Used
 
-1. [Linear regression]()
+1. [Linear regression](https://github.com/Tzsds/SC1015/blob/main/ML(Linear%20Regression).ipynb)
 
-2. [Neural Network]()
+2. [Neural Network](https://github.com/Tzsds/SC1015/blob/main/ML(Neural%20Network).ipynb)
 
 # References
 
