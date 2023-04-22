@@ -4,7 +4,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). This project is focused on the prices of resale flats in Singapore over time
 
-# Contributors
+# Members
 
 Tan Zhai Sheng Dylan Sean
 
@@ -14,18 +14,30 @@ Lai Boon Yi
 
 # Problem Statement
 
-When is it the best time to buy Resale flats in Singapore
+When is it the best time to buy Resale flats in Singapore.
 
 # Data
 
 All resale flats sale prices from 1990 - 2023
 
-# Focus of the project
+(Taken from [data.gov.sg](https://data.gov.sg/dataset/resale-flat-prices))
+
+# Data focus point
 
 As there is alot of data we only chose to focus on the top 3 towns with the most flats
 
 # Machine Learning Models Used
 
-1. Linear regression
+1. [Linear regression]()
 
-2. Neural Network
+2. [Neural Network]()
+
+# References
+
+https://data.gov.sg/dataset/resale-flat-prices
+
+https://www.analyticsvidhya.com/blog/2021/08/a-walk-through-of-regression-analysis-using-artificial-neural-networks-in-tensorflow/
+
+https://www.analyticsvidhya.com/blog/2021/06/linear-regression-using-neural-networks/
+
+
