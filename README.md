@@ -34,7 +34,7 @@ All resale flats sale prices from 1990 - 2023
 
 # Data focus point for machine learning
 
-As there is alot of data we only chose to focus on the top 3 towns with the most flats. The top three towns and blocks with the most data is
+As there is alot of data we deicded to focus on the top 3 towns with the most flats. The top three towns and blocks with the most data is
 
 1. Tampines Block 267
 
