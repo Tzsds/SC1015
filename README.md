@@ -50,7 +50,7 @@ As there is alot of data we decided to focus on the top 3 towns with the most fl
 
 # Conclusion
 
-The price of resale flats will rise as time goes on and many factors can affect that price such as the facilities around it. Therefore in order to get the best price we would have to carefully analyze the behaviour of those prices over the years in order to make the best choice 
+The price of resale flats will rise as time goes on and many factors can affect that price such as the facilities around it. Therefore in order to answer the question when is the best time to purchase a resale flat we would have to carefully analyze the behaviour of those prices over the years in order to make the best choice.
 
 # References
 
