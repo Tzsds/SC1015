@@ -54,11 +54,11 @@ The price of resale flats will rise as time goes on and many factors can affect 
 
 # What have we learnt from this project
 
-How to use neural networks to predict the future prices
+-How to use neural networks to predict the future prices
 
-How to use tensorflow
+-How to use tensorflow
 
-Prices can be affected by many factors that are not about the flat itself
+-Prices can be affected by many factors that are not about the flat itself
 
 # References
 
