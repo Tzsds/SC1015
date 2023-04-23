@@ -52,6 +52,14 @@ As there is alot of data we decided to focus on the top 3 towns with the most fl
 
 The price of resale flats will rise as time goes on and many factors can affect that price such as the facilities around it. Therefore in order to answer the question when is the best time to purchase a resale flat we would have to carefully analyze the behaviour of those prices over the years in order to make the best choice.
 
+# What have we learnt from this project
+
+How to use neural networks to predict the future prices
+
+How to use tensorflow
+
+Prices can be affected by many factors that are not about the flat itself
+
 # References
 
 https://data.gov.sg/dataset/resale-flat-prices
